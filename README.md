@@ -5,7 +5,6 @@ This is a mini project on Blood Donor Management System
 - IDE : VSCode.
 
 - Extract the files to htdocs folder (in xampp)
-- bbdms.sql (database) is present within the zip file.
 - Import bbdms.sql to xampp
 
 ABOUT THE PROJECT:
